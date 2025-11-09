@@ -46,6 +46,23 @@ O design utiliza as cores temáticas da marca:
 - **Motion** (Framer Motion) para animações
 - **Lucide React** para ícones
 - **React Slick** para carrosséis
+- **Supabase** para backend (opcional)
+
+## 📦 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/SEU-USUARIO/doces-sao-fidelis.git
+
+# Entre na pasta do projeto
+cd doces-sao-fidelis
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
+```
 
 ## 📱 Responsividade
 
